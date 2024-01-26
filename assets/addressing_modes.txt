@@ -1,0 +1,13 @@
+IMM: Immediate Addressing
+ABS: Absolute Addressing
+ZP0: Zero Page Addressing
+ACC: Accumulator Addressing
+IMP: Implied Addressing
+INX: Indexed Indirect Addressing
+INY: Indirect Indexed Addressing
+ZPX: Zero Page with X Offset
+ABX: Absolute with X Offset
+ABY: Absolute with Y Offset
+REL: Relative Addressing
+IND: Absolute Indirect Addressing
+ZPY: Zero Page with Y Offset
